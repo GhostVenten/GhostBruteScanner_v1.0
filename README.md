@@ -1,0 +1,1 @@
+# GhostBruteScanner v1.0
