@@ -1,5 +1,7 @@
 # 🚨 **GHOSTBRUTESCANNER v1.0** 🚨
-
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1264980076726845562/1322685109962276954/Captu2re.PNG?ex=6771c600&is=67707480&hm=9a6057695f65fcd4f2a681f9f273eb9baeba9434a33a6ebb880e17bbb1372da5&" alt="GhostBruteScanner Preview" />
+</p>
 **GhostBruteScanner v1.0** is an advanced tool written in **C#** designed to scan websites and evaluate their vulnerability to brute-force attacks, helping identify critical security weaknesses.
 
 ## 🚀 **FEATURES**
